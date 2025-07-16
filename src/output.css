@@ -251,18 +251,6 @@
   .items-center {
     align-items: center;
   }
-  .rounded-\[5\] {
-    border-radius: 5;
-  }
-  .rounded-\[50\%\] {
-    border-radius: 50%;
-  }
-  .rounded-\[50\] {
-    border-radius: 50;
-  }
-  .rounded-\[50px\] {
-    border-radius: 50px;
-  }
   .rounded-\[100px\] {
     border-radius: 100px;
   }
